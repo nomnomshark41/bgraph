@@ -1,7 +1,3 @@
-> ⚠️ **Warning: This project is no longer maintained or active.**  
-> Issues, pull requests, and updates will not be addressed.
-
-
 BGraph
 ======
 
